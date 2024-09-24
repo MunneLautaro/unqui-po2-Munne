@@ -33,8 +33,10 @@ public class Point {
 	    public Point add(Point other) {
 	        return new Point(this.x + other.x, this.y + other.y);
 	    }
+	       
 }	
 	 
+
 
 	
 /*
